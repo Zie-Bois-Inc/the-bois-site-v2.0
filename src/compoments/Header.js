@@ -1,8 +1,10 @@
-import React from 'react'
+import './Header.css'
 
 const Header = () => {
   return (
-    <div>Header</div>
+    <header>
+        <h1>the bois site</h1>
+    </header>
   )
 }
 
